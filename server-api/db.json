@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "id": "0a129b68-5a5b-4292-87ec-bf69047c70d6",
+      "name": "Ankur Mehra",
+      "email": "ankurm@gmail.com"
+    },
+    {
+      "id": "cbe7f025-dd74-4292-bed9-33955bc0fe9d",
+      "name": "tashit kumar",
+      "email": "tashu@gmail.com"
+    },
+    {
+      "id": "c0cf3b9e-06e6-4e6a-8ff6-3ba8164308e7",
+      "name": "Anukriti Shrivastava",
+      "email": "anukritishrivastava@gmail.com"
+    },
+    {
+      "id": "aef3a233-29fb-458e-af8f-1610d09f0ab7",
+      "name": "Ashish gupta",
+      "email": "ashug@gmail.com"
+    },
+    {
+      "id": "902d9a46-17eb-4077-ab4f-31bebb2d6e3e",
+      "name": "anita mishra",
+      "email": "anita@gmail.com"
+    },
+    {
+      "id": "7056d33d-2899-4cbd-a4e6-8492760ceaaf",
+      "name": "Mohit Jha",
+      "email": "jha19@gmail.com"
+    },
+    {
+      "id": "975bb7b2-16be-4b68-ad89-cd8bf9800937",
+      "name": "Rohan Singh",
+      "email": "rohugmail.com"
+    },
+    {
+      "id": "eda27744-bbfc-4e05-aa26-eb5657c2c3c3",
+      "name": "dipesh kumar singh",
+      "email": "dipesh@gmail.com"
+    },
+    {
+      "id": "0194ea7e-22ff-4c5e-adcb-052ce4dc9c46",
+      "name": "Kritika Sinha ",
+      "email": "kriti@gmail.com"
+    },
+    {
+      "id": "55c10eff-a001-4ad9-ab07-5b35852bb0c3",
+      "name": "Ram Goyal",
+      "email": "goyal@gmail.com"
+    }
+  ]
+}
